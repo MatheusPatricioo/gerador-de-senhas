@@ -27,7 +27,7 @@ Este Gerador de Senhas é uma aplicação web simples que permite aos usuários 
 
 ## Screenshots
 
-![Screenshot do Gerador de Senhas](screenshot.png)
+![Screenshot do Gerador de Senhas](img/screen.png)
 
 ## Contribuição
 
